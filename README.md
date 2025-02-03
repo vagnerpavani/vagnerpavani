@@ -6,12 +6,7 @@ My name is Vagner. I am a Brazilian full-stack software engineer, passionate abo
 
 Currently, i'm working on a personal project, a cross-platform desktop application for automatically managing audio project backups using AWS, Electron, React, and Node.js, along with an API built with NestJS, Postgres and Docker, which will be released for testing soon.
 
-I started programming in 2018 when I joined the Federal University of Rio de Janeiro (UFRJ) to study Computer Science. In 2020, I joined an EdTech startup to create a full-stack web programming bootcamp course. Later, the product was discontinued, so I decided to work on my own project. I'm also currently open to work.
-
-### Fun facts:
-
-- I love animals and have two lovely cats and a big, cute dog. 🐱🐶🐱
-- I have two bands you can find on Spotify: Ermos and Moonglasses. I really enjoy writing songs. 🎵
+I started programming in 2018 when I joined the Federal University of Rio de Janeiro (UFRJ) to study Computer Science. In 2020, I joined an EdTech startup to create a full-stack web programming bootcamp course. At the end of 2024, the product was discontinued, so I decided to work on my own project. **I'm also currently open to work.**
 
 ### Currently i'm working with:
 
@@ -27,3 +22,11 @@ I started programming in 2018 when I joined the Federal University of Rio de Jan
  <img style="height: 30px;" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
  <img style="height: 30px;" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon&logoColor=white">
 </div>
+
+### Fun facts:
+
+- I love animals and have two lovely cats and a big, cute dog. 🐱🐶🐱
+- I've made two GameJams with my brothers using Godot engine and you can check the games [here](https://vagnerpavani.itch.io/pilot-episode)!
+- I have two bands you can find on Spotify:
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3JsDGnBUCI2gHlxrPS7hv9?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7yQolNT5D4YHRimCFW3RzD?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
