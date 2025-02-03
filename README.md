@@ -28,5 +28,5 @@ I started programming in 2018 when I joined the Federal University of Rio de Jan
 - I love animals and have two lovely cats and a big, cute dog. 🐱🐶🐱
 - I've made two GameJams with my brothers using Godot engine and you can check the games [here](https://vagnerpavani.itch.io/pilot-episode)!
 - I have two bands you can find on Spotify:
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3JsDGnBUCI2gHlxrPS7hv9?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7yQolNT5D4YHRimCFW3RzD?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  - [Moonglasses](https://open.spotify.com/track/3JsDGnBUCI2gHlxrPS7hv9?si=f4bf82d197214617)
+  - [Ermos](https://open.spotify.com/track/7yQolNT5D4YHRimCFW3RzD?si=76a0c0f6512445d4)
