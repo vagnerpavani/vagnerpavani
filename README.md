@@ -10,8 +10,8 @@ I started programming in 2018 when I joined the Federal University of Rio de Jan
 
 ### Fun facts:
 
-I love animals and have two lovely cats and a big, cute dog. 🐱🐶🐱
-I have two bands you can find on Spotify: Ermos and Moonglasses. I really enjoy writing songs. 🎵
+- I love animals and have two lovely cats and a big, cute dog. 🐱🐶🐱
+- I have two bands you can find on Spotify: Ermos and Moonglasses. I really enjoy writing songs. 🎵
 
 ### Currently i'm working with:
 
